@@ -1,6 +1,6 @@
 # Project Title (Update)
 
-Add a description of your project here.
+This is a stock tracker/predictor for the S&P 500, NASDAQ and DOW JONES primary ETF's. I will start in the year 2006 for the DOW JONES, 2005 for the S&P 500, and 2000 for NASDAQ. I am predicting 12 months per fold and I will have at least 36 months before I start training. I will be using the ROlling split style and I will create one combined model per ETF I am tracking.
 
 ## Instructions for Build and Use
 
